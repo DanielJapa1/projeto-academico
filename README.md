@@ -2,5 +2,5 @@
 
 ## Integrantes
 - Daniel Rodrigues Cesar
-- João Pedro
-- Cario
+- João Pedro Gomes
+- Cario Ramos
